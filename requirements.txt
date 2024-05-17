@@ -1,0 +1,13 @@
+streamlit
+st-ant-tree
+python-dotenv
+pathlib
+streamlit_tree_select
+snowflake-ml-python
+pypdf
+extra_streamlit_components
+transformers
+replicate
+openai
+langchain-community
+chromadb
